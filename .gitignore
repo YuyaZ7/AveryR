@@ -1,0 +1,11 @@
+# Development files
+build
+.xmake
+.vscode
+
+# Engine files
+log.txt
+imgui.ini
+
+# Big assets
+assets/somebigassets
